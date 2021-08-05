@@ -1,0 +1,19 @@
+npx create-react-app my-app
+npm install -S yup
+npm install react-bootstrap bootstrap@4.6.0
+npm install axios
+npm add formik
+npm install react-router-dom
+npm install react-table --save
+npm add date-fns
+npm install --save styled-components
+npm install --save react-icons
+
+npm install --save react-toastify
+npm install --save react-modal
+npm install react-tooltip
+npm add react-countup
+npm install react-player
+npm i react-charts --save
+
+npm install react-hook-form

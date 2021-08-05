@@ -1,0 +1,47 @@
+1. Install Yup        : npm install -S yup  
+1. Install Bootstrap  : npm install react-bootstrap bootstrap@4.6.0
+3. Install axios      : 
+     Installing
+        * Using npm   : $ npm install axios
+        * Using bower : $ bower install axios
+        * Using yarn  : $ yarn add axios
+        * Using jsDelivr CDN: <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+        * Using unpkg CDN: <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+4. Install Formik     : npm add formik
+5. Install Chakra     : npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^4
+                        yarn add @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^4
+6. React Icons        : npm install react-icons --save
+                        yarn add react-icons
+                        Installation (for meteorjs, gatsbyjs, etc)
+
+If your project grows in size, this option is available. This method has the trade-off that it takes a long time to install the package.
+
+yarn add @react-icons/all-files
+# or
+npm install @react-icons/all-files --save
+
+7.  $ npm install --save react-toastify
+    $ yarn add react-toastify
+
+8. $ npm install --save react-modal
+   $ yarn add react-modal
+9. npm install react-tooltip
+   yarn add react-tooltip
+10. yarn add react-countup
+11. npm install react-player 
+   # or yarn add react-player
+12. $ yarn add react-charts
+    # or 
+    $ npm i react-charts --save
+
+13. npm install react-router-dom
+13. npm install react-table --save
+    yarn add react-table
+14. npm add date-fns
+
+
+
+
+
+
